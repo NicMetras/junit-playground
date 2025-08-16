@@ -10,8 +10,6 @@ TestingPracticeTest – a JUnit 5 test class that validates the behavior of Test
 
 What I Learned
 
-How to create a simple Java project in Eclipse
-
 How to write unit tests with JUnit 5
 
 How to use assertions like assertEquals
